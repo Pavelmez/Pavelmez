@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Development 
 - 🌱 I’m currently learning Jetpack Compose
 - 💞️ I’m looking to collaborate on Mobile Applications
-- 📫 How to reach me [Email](pavel.manaf@gmail.coml)
+- 📫 How to reach me [Email](mailto:pavel.manaf@gmail.coml)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing games
 
